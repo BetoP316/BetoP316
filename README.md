@@ -19,7 +19,7 @@ I am an Economist with a strong background in data analysis, quantitative modeli
 ## 🛠️ Skills  
 🔹 **Technical Skills**  
 - Languages: Python, R, SQL, Stata  
-- Predictive & statistical models: Linear Regression, Decision Trees, VAR, SARIMA  
+- Predictive & statistical models: Linear Regression, Decision Trees, VAR, ARIMA models  
 - Data visualization: Power BI, Tableau  
 - NLP & sentiment analysis  
 
