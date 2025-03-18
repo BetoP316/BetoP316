@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hello there, I'm Beto! 👋  
 
-<!--
-**BetoP316/BetoP316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 About Me  
+I am an Economist with a strong background in data analysis, quantitative modeling, and administrative process management. I am passionate about transforming data into valuable insights for strategic decision-making and process optimization.  
 
-Here are some ideas to get you started:
+💡 **Areas of Interest:**  
+- 📊 Data analysis & visualization (Power BI, Tableau, Python, R, Stata)  
+- 🤖 Econometric modeling & machine learning  
+- 🔎 Natural Language Processing (NLP) & sentiment analysis  
+- 📈 Data-driven decision-making  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects & Work  
+
+
+## 🛠️ Skills  
+🔹 **Technical Skills**  
+- Languages: Python, R, SQL, Stata  
+- Predictive & statistical models: Linear Regression, Decision Trees, VAR, SARIMA  
+- Data visualization: Power BI, Tableau  
+- NLP & sentiment analysis  
+
+🔹 **Soft Skills**  
+- Teamwork & leadership  
+- Analytical thinking & problem-solving  
+- Effective communication  
+
+## 🎓 Education  
+🎓 **Economics** - Universidad San Francisco de Quito  
+🎓 **Bachelor of Commerce (Economics)** - Mount Allison University  
+
+## 🔗 Connect with Me  
+📩 Email: robertopaezpl@gmail.com  
+🔗 [LinkedIn](www.linkedin.com/in/roberto-paez-pluas-2685b3241)  
