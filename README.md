@@ -10,7 +10,7 @@ I am an Economist with a strong background in data analysis, quantitative modeli
 - 📈 Data-driven decision-making  
 
 ## 🚀 Projects & Work  
-- **Effectiveness of Sentiment Analysis in Predicting Ecuador’s GDP Annual Growth Rate Using Newspaper Textual Data (2000–2024)**  
+- **Effectiveness of Sentiment Analysis in Predicting Ecuador’s GDP Annual Growth Rate Using Newspaper Textual Data (2001–2024)**  
   [🔗 View Project on GitHub](https://github.com/BetoP316/NLP_analysis)
 
 - **Predictive Modeling for Debt Recovery Profile**  
