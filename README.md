@@ -19,6 +19,9 @@ I am an Economist with a strong background in data analysis, quantitative modeli
 - **Salifort Motors Google Capstone project lab**  
   [🔗 View Project on GitHub](https://github.com/BetoP316/GGL_employee_satisf)
 
+- **Forecasting models for Demand analysis**  
+  [🔗 View Project on GitHub](https://github.com/BetoP316/VAR_Demand_AN)
+
 ## 🛠️ Skills  
 🔹 **Technical Skills**  
 - Languages: Python, R, Stata  
