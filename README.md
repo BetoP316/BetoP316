@@ -16,7 +16,7 @@ I am an Economist with a strong background in data analysis, quantitative modeli
 - **Predictive Modeling for Debt Recovery Profile**  
   [🔗 View Project on GitHub](https://github.com/BetoP316/MG_project/blob/main/README.md)
 
-- **Predictive Modeling for Debt Recovery Profile**  
+- **Salifort Motors Google Capstone project lab**  
   [🔗 View Project on GitHub](https://github.com/BetoP316/GGL_employee_satisf)
 
 ## 🛠️ Skills  
