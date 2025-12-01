@@ -19,8 +19,9 @@ I am an Economist with a strong background in data analysis, quantitative modeli
 - **Salifort Motors Google Capstone project lab**  
   [🔗 View Project on GitHub](https://github.com/BetoP316/GGL_employee_satisf)
 
-- **Forecasting models for Demand analysis**  
-  [🔗 View Project on GitHub](https://github.com/BetoP316/VAR_Demand_AN)
+- **Consumption Perspectives for Quito (2025)**  
+  [🔗 View Project on GitHub]([https://github.com/BetoP316/VAR_Demand_AN](https://github.com/BetoP316/Perspectivas-de-Consumo-para-2025/blob/4f68549537db4ca9ad0fca0787af88df0a396637/2025.11.26%20Consumo%202025%20Perspectivas%202026%20Oikonomics.pdf))
+
 
 ## 🛠️ Skills  
 🔹 **Technical Skills**  
